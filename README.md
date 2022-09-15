@@ -25,3 +25,5 @@ RGB LED Module:
 RFID Module:
 •	RC522 RFID Reader Module with Rasberry Pi Pico : https://microcontrollerslab.com/raspberry-pi-pico-rfid-rc522-micropython/,  https://www.youtube.com/watch?v=hV9GTqXLMpg
 •	RFID Based Student Attendance: https://www.tomshardware.com/news/raspberry-pi-pico-rfid-student-attendance-system
+
+
